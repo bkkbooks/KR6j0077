@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0077/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛頂尊勝心破地獄轉業障出三界祕密三身佛果三種悉地真言儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0906.xml
+    old_id: T18n0906
+hash: sha256:9e0302f0eff345f0f41a41cbe3075e4c847d7da7102c1b27979c1e1ed858dae5

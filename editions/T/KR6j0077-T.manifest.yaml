@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0077/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0077/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛頂尊勝心破地獄轉業障出三界祕密三身佛果三種悉地真言儀軌
+  identifiers:
+    krp: KR6j0077
+    cbeta: T18n0906
+    cbeta_old_id: T18n0906
+    authorityid: CA0001052
+    json_key: T0906
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0906.xml
+    old_id: T18n0906
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0077_000-T.yaml, hash: 'sha256:9e0302f0eff345f0f41a41cbe3075e4c847d7da7102c1b27979c1e1ed858dae5'}
+  - {seq: 1, filename: KR6j0077_001-T.yaml, hash: 'sha256:e47368e57f695204d31ecf8cccbd69d07d14f8a31bd7123c8020354e6f7a4db0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0077_000-T.markers.yaml, hash: 'sha256:452355c5d6d757b9b5331e60f8b38ac6961c4baa8e4c963b70e62888ebc07d57'}
+  - {seq: 1, role: markers, filename: assets/KR6j0077_001-T.markers.yaml, hash: 'sha256:4ca17bc216415eee2e0156e2411c9b59d66b46341ab762c743966dad81b8114d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0077_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3425
+  label: '佛頂尊勝心破地獄轉業障出三
+
+    界祕密三身佛果三種悉地真言
+
+    儀軌一卷'
+  type: juan
+  level: 1
+hash: sha256:29feab5967a78213be0bad7fb4ef58c08f359599eff7eeb0f0f352e73e3ace18
